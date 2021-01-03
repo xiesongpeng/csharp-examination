@@ -14,7 +14,7 @@
 
 #输入
 
-输入将是一个文件形式的公式和参数。如所示。
+输入将是一个文件形式的公式和参数。如[input.txt](https://github.com/bridge5/csharp-examination/blob/master/test2/input.txt)所示。
 
 算式有且只有一行，参数可能会有很多个。
 
