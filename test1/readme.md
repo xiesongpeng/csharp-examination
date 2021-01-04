@@ -1,11 +1,7 @@
-## General Brief
+## Introduction
 
-There are 2 questions in the assessment which need you finish it with C#. For each test, please commit your code to a private repository on GitHub, with a README.md on how to run it. When you’re done, simply add **AmmRage** as collaborators to your private repository.
+There are 2 tasks in the assessment which need you finish both with C#. Please fork this repo , finish the two  tasks and submit pull request. 
 
-There's no time limit, but do time yourself for every question beginning from the time you start reading it till your final local commit, and let me know how long you took for each question in the README. We recommend that you set aside 1.5 hours for each task in the test.
-
-You can take in the input either via command-line arguments, or simply assume that it's assigned at the top of your script. Either way, let us know how to inject an input. We'll adapt our test cases accordingly.
-Very importantly, we trust you to write your solutions independent of any external help.
 
 # Task 1
 
@@ -86,9 +82,9 @@ Make sure that your script can handle matrices of dimensions up to 60x60.
 
 # Task 2
 
-Our hiring division runs a product called TalentHunt, which seeks to match jobs to candidates. Assume that this matching is conducted once daily, and at each run, there are N jobs and N candidates respectively, where N > 1.
+Our hiring division runs a product called HRM, which seeks to match jobs to candidates. Assume that this matching is conducted once daily, and at each run, there are N jobs and N candidates respectively, where N > 1.
 
-Based on the job details, for every job, TalentHunt would rank all the candidates at every run from the most relevant to the least. Symmetrically, based on the candidate profiles, for every candidate, TalentHunt would rank all the jobs at every run from the most relevant to the least.
+Based on the job details, for every job, HRM would rank all the candidates at every run from the most relevant to the least. Symmetrically, based on the candidate profiles, for every candidate, HRM would rank all the jobs at every run from the most relevant to the least.
 
 If N = 3, the ranking would look something like this. j<sub>i</sub> denotes a job, and c<sub>i</sub> denotes a candidate.
 
@@ -102,7 +98,7 @@ c2: j1 j3 j2
 c3: j3 j2 j1
 ```
 
-Write a program to help TalentHunt plug in the last gap of matching up the candidates and jobs such that:
+Write a program to help HRM plug in the last gap of matching up the candidates and jobs such that:
 
 a) all candidates are matched to a job, and vice versa, in a 1-1 relationship,
 
