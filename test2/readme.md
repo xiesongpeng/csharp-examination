@@ -14,9 +14,9 @@
 
 # 输入
 
-输入将是一个文件形式的公式和参数。如[input.txt](https://github.com/bridge5/csharp-examination/blob/master/test2/input.txt)所示。
+输入将是一个文件形式的公式和参数。如[input1.txt](https://github.com/bridge5/csharp-examination/blob/master/test2/input1.txt),[input2.txt](https://github.com/bridge5/csharp-examination/blob/master/test2/input2.txt),[input3.txt](https://github.com/bridge5/csharp-examination/blob/master/test2/input3.txt),所示。
 
-算式有且只有一行，参数可能会有很多个。
+算式有且只有一行，**参数**可能会有**很多**个。
 
 # 工作方式
 
