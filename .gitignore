@@ -1,0 +1,7 @@
+*.suo
+/.vs
+/test1/Examination1/obj
+/test1/Examination1/bin
+/test1/Examination2/.vs
+/test1/Examination2/bin
+/test1/Examination2/obj
